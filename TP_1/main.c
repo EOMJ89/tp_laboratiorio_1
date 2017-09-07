@@ -49,7 +49,7 @@ int main()
         //Obtiene opcion del usuario
         opcion=obtenerOpcion("Opcion incorrecta.\n\n");
 
-        switch(opcionValida)
+        switch(opcion)
         {
         case 1://Obtener  primer operando
             system("cls");
