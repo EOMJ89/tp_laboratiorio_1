@@ -34,7 +34,7 @@ int obtenerOpcion(char mensajeError[])
         opcionValida=validarNumero(opcion);
     }
 
-    num=atof(opcion);
+    num=atoi(opcion);
     return num;
 }
 
