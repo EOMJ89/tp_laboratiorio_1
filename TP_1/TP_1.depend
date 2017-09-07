@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1504551090 source:c:\riot games\utnfra\prog-lab i\tp_lab_i\tp_1\funciones.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1504638164 c:\riot games\utnfra\prog-lab i\tp_lab_i\tp_1\funciones.h
+
+1504638184 source:c:\riot games\utnfra\prog-lab i\tp_lab_i\tp_1\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1504534288 source:e:\emilio\utnfra\prog-lab i\tp_lab_i\tp_1\funciones.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1504534308 e:\emilio\utnfra\prog-lab i\tp_lab_i\tp_1\funciones.h
+
+1504535816 source:e:\emilio\utnfra\prog-lab i\tp_lab_i\tp_1\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1504619665 source:d:\tp_lab_i\tp_1\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1504619538 d:\tp_lab_i\tp_1\funciones.h
+
+1504619536 source:d:\tp_lab_i\tp_1\funciones.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1504642372 source:f:\emilio\utnfra\prog-lab i\tp_lab_i\tp_1\funciones.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1504638164 f:\emilio\utnfra\prog-lab i\tp_lab_i\tp_1\funciones.h
+
+1504638184 source:f:\emilio\utnfra\prog-lab i\tp_lab_i\tp_1\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
