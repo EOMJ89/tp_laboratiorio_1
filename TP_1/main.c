@@ -46,7 +46,7 @@ int main()
         printf("8- Calcular todas las operaciones\n");
         printf("9- Salir\n");
 
-        //Obtiene opcion del usuario
+        //Obtiene opcion ingresada por usuario
         opcion=obtenerOpcion("Opcion incorrecta.\n\n");
 
         switch(opcion)
