@@ -262,7 +262,7 @@ void imprimirGrafico(ePersona lista[], int tam)
     int contMenores=0, contMedios=0, contMayores=0, contPersonas=0;
     int i;
 
-    //Obtiene la cantidad de personas y la cantidad de cada una perteneciente a los grupos
+    //Obtiene la cantidad de personas y la cantidad perteneciente a los grupos
     for(i=0; i<tam; i++)
     {
         if(lista[i].edad>18 && lista[i].edad<=35)
