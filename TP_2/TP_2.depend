@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1505770987 source:c:\riot games\utnfra\prog-lab i\tp_lab_i\tp_2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1505772062 c:\riot games\utnfra\prog-lab i\tp_lab_i\tp_2\funciones.h
+
+1505769375 source:c:\riot games\utnfra\prog-lab i\tp_lab_i\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1505772726 source:c:\users\samsung\documents\github\tp_laboratiorio_1\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1505958928 c:\users\samsung\documents\github\tp_laboratiorio_1\tp_2\funciones.h
+
+1505958144 source:c:\users\samsung\documents\github\tp_laboratiorio_1\tp_2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
