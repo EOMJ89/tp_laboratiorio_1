@@ -23,14 +23,13 @@ int main()
         printf("4- Imprimir grafico de edades\n\n");
         printf("5- Salir\n");
 
-        printf("\nIngrese la opcion deseada: ");
-        opcion=obtenerOpcion("Opcion incorrecta.\n");
+        opcion=obtenerOpcion("\nIngrese la opcion deseada: ", "Opcion Incorrecta.");
 
         switch(opcion)
         {
         case 1:
             system("cls");
-            altaPersonas(listaDePersonas, TAM);
+            altaPersonas(listaDePersonas, TAM, "Ingrese el nombre: ", "Nombre invalido.\n");
             system("pause");
             break;
         case 2:
