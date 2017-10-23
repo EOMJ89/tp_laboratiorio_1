@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1508791285 source:c:\riot games\utnfra\prog-lab i\tp_lab_i\tp_3\generic.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"generic.h"
+
+1507664394 c:\riot games\utnfra\prog-lab i\tp_lab_i\tp_3\generic.h
+
+1508791455 source:c:\riot games\utnfra\prog-lab i\tp_lab_i\tp_3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"generic.h"
+	"funciones.h"
+
+1508789759 source:c:\riot games\utnfra\prog-lab i\tp_lab_i\tp_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"generic.h"
+	"funciones.h"
+
+1508791518 c:\riot games\utnfra\prog-lab i\tp_lab_i\tp_3\funciones.h
+
