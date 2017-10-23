@@ -87,7 +87,7 @@ int mostrarMovies(sMovie* movies, int moviesAmount);
  */
 int borrarPelicula(sMovie* movies, int moviesAmount);
 
-/** \brief
+/** \brief Modifica las opciones de las peliculas
  *
  * \param Puntero a peliculas
  * \param Entero con la opción de dato a ser cambiado
@@ -107,10 +107,9 @@ void modificarOpciones(sMovie* movies,int cambio, char* continuar);
  */
 int modificarPelicula(sMovie* movies, int moviesAmount);
 
-void generarPeliculas(sMovie* movies, int moviesAmount);
-
 /**
- *  Genera un archivo html a partir de las peliculas cargadas en el archivo binario.
+ *  @brief Genera un archivo html a partir de las peliculas cargadas en el archivo binario.
+ *
  *  @param lista la lista de peliculas a ser agregadas en el archivo.
  *  @param nombre el nombre para el archivo.
  */
